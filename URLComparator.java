@@ -1,12 +1,5 @@
 import java.util.Comparator;
 
-/* Vivian Lam
- * ID: 111549991
- * vivian.lam@stonybrook.edu
- * Homework 7
- * CSE214, R11 (Reed Gantz)
- */ 
-
 /**
  * @author vivi3
  * Sort alphabetically ASCENDING based the URL of the WebPage 
