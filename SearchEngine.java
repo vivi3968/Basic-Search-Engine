@@ -2,13 +2,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-/* Vivian Lam
- * ID: 111549991
- * vivian.lam@stonybrook.edu
- * Homework 7
- * CSE214, R11 (Reed Gantz)
- */ 
-
 public class SearchEngine {
 	
 	public static final String PAGES_FILE = "pages.txt";
