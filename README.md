@@ -1,1 +1,5 @@
 # Basic-Search-Engine
+
+The World Wide Web is an open source information space where documents (pages) and other web resources are identified by URLs and can be accessed via hyperlinks. The system can be described as a directed graph (or 'web') of pages in which a link from page A to page B corresponds to a directed edge from node A to node B. Each document can be abbreviated as a handful of important keywords describing what the document is about. Given the vast amount of information available on the web, searching for the most relevant pages containing a keyword in an efficient manner is an incredibly important operation.  
+
+This project will create a basic search engine to generate a sorted list of web pages using a simplified version of Google's PageRank algorithm. We will build a directed graph of WebPage objects by reading two files: pages.txt and links.txt. Once the graph is constructed, it will run a basic search engine that prompts the user to enter a keyword. It can then perform the PageRank algorithm and display the pages to the user in tabular form.
