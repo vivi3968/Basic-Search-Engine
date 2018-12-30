@@ -5,13 +5,6 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.Scanner;
 
-/* Vivian Lam
- * ID: 111549991
- * vivian.lam@stonybrook.edu
- * Homework 7
- * CSE214, R11 (Reed Gantz)
- */ 
-
 /**
  * @author vivi3
  * Organizes the WebPage objects as a directed graph
@@ -22,13 +15,9 @@ public class WebGraph {
 	private static ArrayList<WebPage> pages = new ArrayList<WebPage>();
 	private static int[][] links = new int[MAX_PAGES][MAX_PAGES];
 
-	/**
-	 * Constructor for webgraph
-	 */
 	public WebGraph() {}
 	
 	/**
-	 * Constructor with parameters for webgraph
 	 * @param pages
 	 * @param links
 	 */
