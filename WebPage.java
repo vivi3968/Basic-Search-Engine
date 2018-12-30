@@ -1,13 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collection;
 
-/* Vivian Lam
- * ID: 111549991
- * vivian.lam@stonybrook.edu
- * Homework 7
- * CSE214, R11 (Reed Gantz)
- */ 
-
 /**
  * @author vivi3
  * Represents a hyperlinked document.
